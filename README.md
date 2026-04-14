@@ -14,7 +14,7 @@ This repository showcases experimental ideas, festival-based projects, and uniqu
 * Simple UI with dynamic result generation
 
 📁 Folder: `love-calculator.`
-🔗 Live Demo: *([Add your link](https://aswanth-mc.github.io/crazy-web-mini-projects/loveCalculator/))*
+🔗 Live Demo: *([click here](https://aswanth-mc.github.io/crazy-web-mini-projects/loveCalculator/))*
 
 ---
 
