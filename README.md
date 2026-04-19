@@ -46,7 +46,9 @@ This repository showcases experimental ideas, festival-based projects, and uniqu
 
 ## 📸 Preview
 
-*(Add screenshots here for better visibility)*
+### Love Calculator
+![Alt text](assets/preview/love_calculator_preview.png)
+
 
 ---
 
